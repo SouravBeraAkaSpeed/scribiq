@@ -5,7 +5,7 @@
 ### Proof of Work
 You can watch the full system architecture and demo video here:
 
-https://drive.google.com/file/d/1owwLzrb0J21TO2Y667-39kBoKfoIHkZJ/view?usp=sharing
+[https://drive.google.com/file/d/1owwLzrb0J21TO2Y667-39kBoKfoIHkZJ/view?usp=sharing](https://drive.google.com/file/d/1nnLQ2WX8lkXzIrBZJ6qguPHmepPhfigs/view?usp=sharing)
 
 LIVE : https://scribiq.com/
 
