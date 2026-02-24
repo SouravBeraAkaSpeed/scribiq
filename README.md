@@ -83,8 +83,7 @@ X:
 ---
 
 ## 📬 Contact
-souravberaofficial@gmail.com
-
+sourav@scribiq.com
 ---
 
 ## 🌍 Build in Public
